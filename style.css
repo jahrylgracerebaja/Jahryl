@@ -1,0 +1,49 @@
+header {
+    background-origin: #1e293b;
+    padding: 15px 30px;
+    display: flex;
+    justify-content:  space-between; 
+}
+
+
+ nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+ } 
+   
+
+ .hero{
+  background-color: #2563eb;
+  text-align: center;
+  padding: 80px 20px;
+  color:white;
+ }   
+
+ .btn {
+    background:#f59e0b;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+
+
+ .content {   
+    padding:50px 20px;
+    text-align:center;
+
+ }
+
+
+ .footer{
+
+    background-color: #0f172a;
+    color: #94a3b8;
+    text-align: center;
+    padding: 20px;
+ }
+
+
+ 
+ 
+ 
